@@ -3,7 +3,9 @@
 Ce repo est pour les ateliers Réseaux de Neurones et Réseaux de Neurones avancés de la filière SID, Ensai.
 
 A ce jour contient: 
- - le Colab (Jupyter) et les données pour le TP3, portant sur les RNN, les LSTM et le mécanisme d'attention.
- - les données pour le TP4, et le modèle, sans explications, pour la generation par GAN de paysages.
- - bientôt, les données champignons et le modèle pré-entrainé pour le TP2
+ - TP3 : le Colab et les données, portant sur les RNN, les LSTM et le mécanisme d'attention. To come : le sujet en PDF
+ 
+ - TP4: les données, et le modèle pour la generation par GAN de paysages. To come : le sujet en PDF
+ 
+ - un modèle pour la classification de champignons et les données correspondantes, avec un modèle keras fonctionnel pour un CNN. Pour approfondissement. 
  
